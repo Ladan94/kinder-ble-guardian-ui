@@ -28,3 +28,25 @@ pip install -r requirements.txt
 # 3) Run
 streamlit run kinder_ui.py
 # open http://localhost:8501
+# Project Name
+Description…
+
+## Features
+…
+
+## Installation
+…
+
+## Usage
+…
+
+## Troubleshooting
+)
+- Error A → fix
+- Error B → fix
+…
+## License
+MIT © 2025 — Ladan Seddighi
+See LICENSE for details.
+
+
