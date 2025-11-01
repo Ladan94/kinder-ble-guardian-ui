@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/cache/
+.streamlit/state/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data/Logs
+kinder_ble_*.csv
+*.log
